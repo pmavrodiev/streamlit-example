@@ -3,4 +3,4 @@ dependencies:
   - python=3.11
   - pandas=1.5.3
   - streamlit=1.24.1
-  - altair=1.5.3
+  - altair
